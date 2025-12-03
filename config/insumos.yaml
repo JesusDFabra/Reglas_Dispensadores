@@ -1,0 +1,80 @@
+# Configuración de rutas de insumos para el proceso de arqueo de cajeros
+# IMPORTANTE: El sistema busca automáticamente el archivo más reciente con fecha actual
+# en el directorio insumos_excel/. La ruta en 'ruta' es solo de referencia para el patrón.
+
+insumos:
+  # Archivo principal de gestión de arqueos
+  # NOTA: La ruta aquí es solo de referencia/ejemplo. El sistema busca automáticamente
+  # el archivo más reciente en insumos_excel/ con el patrón gestion_*_ksgarro.xlsx
+  # El archivo procesado siempre tendrá la fecha actual (formato: gestion_DD_MM_YYYY_ksgarro.xlsx)
+  gestion_ksgarro:
+    ruta: "gestion_21_11_2025_ksgarro.xlsx"  # Solo referencia - se busca el más reciente automáticamente
+    descripcion: "Archivo de gestión de arqueos - ksgarro"
+    tipo_registro_filtro: "ARQUEO"
+    activo: true
+  
+  # Otros archivos de gestión (para uso futuro)
+  # NOTA: Igual que gestion_ksgarro, busca el archivo más reciente automáticamente
+  gestion_lufrestr:
+    ruta: "gestion_21_11_2025_lufrestr.xlsx"  # Solo referencia - se busca el más reciente automáticamente
+    descripcion: "Archivo de gestión de arqueos - lufrestr"
+    tipo_registro_filtro: "ARQUEO"
+    activo: false
+  
+  # Archivos consolidados y complementarios
+  consolidado:
+    ruta: "consolidado_20_11_2025.xlsx"
+    descripcion: "Archivo consolidado de arqueos"
+    activo: false
+  
+  faltantes:
+    ruta: "FALTANTES SUCURSALES CTA 168710110.xlsx"
+    descripcion: "Registro de faltantes en sucursales"
+    activo: false
+  
+  sobrantes:
+    ruta: "SOBRANTES SUCURSALES CTA 279510020 85.xlsx"
+    descripcion: "Registro de sobrantes en sucursales"
+    activo: false
+  
+  movimientos_nacional:
+    ruta: "NACIONAL_movimientos.xlsx"
+    descripcion: "Movimientos nacionales (archivo Excel para pruebas)"
+    activo: false
+    usar_bd: false  # Si es true, consulta en BD en lugar de Excel
+
+# Configuración de directorios
+directorios:
+  datos_entrada: "."
+  insumos_excel: "insumos_excel"  # Directorio donde se buscan archivos por fecha
+  datos_salida: "output"
+  logs: "logs"
+  configuracion: "config"
+
+# Configuración del proceso
+# Nota: Si usar_fecha_actual está habilitado, estas fechas se calculan automáticamente
+proceso:
+  usar_fecha_actual: true  # Si es true, calcula fechas automáticamente desde la fecha actual
+  fecha_proceso: "2025-11-21"  # Se actualiza automáticamente si usar_fecha_actual es true
+  fecha_arqueo: "2025-11-20"   # Se calcula como fecha_proceso - 1 día
+  tipo_registro_default: "ARQUEO"
+  buscar_archivo_mas_reciente: true  # Busca el archivo más reciente en insumos_excel
+  consultar_movimientos: true  # Si es true, consulta movimientos en archivos complementarios
+
+# Configuración de base de datos
+# Replica la metodología de CertificacionArqueo para consultas a BD
+base_datos:
+  usar_bd: true  # Si es true, consulta en BD en lugar de archivos Excel
+  servidor: "NACIONAL"  # DSN del servidor ODBC (NACIONAL, MEDELLIN, LZ)
+  usuario_nal: "NJDFABRA"  # Usuario para conexión a BD NACIONAL
+  clave_nal: "ANGEL0807"  # Contraseña para conexión a BD NACIONAL
+  usuario_med: "MJDFABRA"  # Usuario para conexión a BD MEDELLIN
+  clave_med: "ANGEL0807"  # Contraseña para conexión a BD MEDELLIN
+  query_params:
+    cuenta: 110505075
+    anio: 2025
+    mes_inicio: 6
+    mes_fin: 12
+    codofi_excluir: 976
+    nrocmp: 770500
+

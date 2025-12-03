@@ -1,0 +1,49 @@
+SELECT 	ANOELB, 
+		MESELB, 
+		DIAELB, 
+		CODOFI, 
+		(CLASE*100000000+GRUPO*10000000+CUENTA*100000+SUBCTA*1000+AUXBIC) as CUENTA, 
+		NIT, 
+		NUMDOC, 
+		NROCMP, 
+		(ANOELB*10000+MESELB*100+DIAELB) as FECHA, 
+		VALOR 
+FROM gcolibranl.gcoffmvint 
+WHERE (CLASE*100000000+GRUPO*10000000+CUENTA*100000+SUBCTA*1000+AUXBIC in (110505075)) 
+	and ANOELB = 2025 
+	and MESELB between 01 and 06 
+	and DIAELB between 01 and 31 
+	and CODOFI <> 976
+	and NROCMP = 810291 
+	
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
+python -m pip install pandas==1.3.5 numpy==1.26.3 pyodbc==4.0.32 holidays holidays-co openpyxl pywin32 pyxlsb PyYAML xlrd XlsxWriter xlwt pyfiglet schedule 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(venv) PS C:\Users\Administrador\OneDrive - HDI Comercio E Servicos De Informatica Ltda\Escritorio\sucursales\Jesus\EUC\CuadreDiario> python .\vneg_cuadre_cajeros_sucursales.py
+Traceback (most recent call last):
+  File "C:\Users\Administrador\OneDrive - HDI Comercio E Servicos De Informatica Ltda\Escritorio\sucursales\Jesus\EUC\CuadreDiario\vneg_cuadre_cajeros_sucursales.py", line 1, in <module>
+    from  proyectos.vneg_cuadre_cajeros_sucursales.cuadre_cajeros_sucursales import CuadreCajerosSucursales
+  
+  File "C:\Users\Administrador\OneDrive - HDI Comercio E Servicos De Informatica Ltda\Escritorio\sucursales\Jesus\EUC\CuadreDiario\proyectos\vneg_cuadre_cajeros_sucursales\cuadre_cajeros_sucursales.py", line 14, in <module>
+    from proyectos.vneg_cuadre_cajeros_sucursales.negocio.conciliacion_cajeros_sucursales.\
+  
+  File "C:\Users\Administrador\OneDrive - HDI Comercio E Servicos De Informatica Ltda\Escritorio\sucursales\Jesus\EUC\CuadreDiario\proyectos\vneg_cuadre_cajeros_sucursales\negocio\conciliacion_cajeros_sucursales\controlador_conciliacion.py", line 16, in <module>
+    from proyectos.vneg_cuadre_cajeros_sucursales.negocio.conciliacion_cajeros_sucursales.\
+  
+  File "C:\Users\Administrador\OneDrive - HDI Comercio E Servicos De Informatica Ltda\Escritorio\sucursales\Jesus\EUC\CuadreDiario\proyectos\vneg_cuadre_cajeros_sucursales\negocio\conciliacion_cajeros_sucursales\conciliacion_normal\controlador_conciliacion_normal.py", line 16, in <module>
+    from proyectos.vneg_cuadre_cajeros_sucursales.negocio.conciliacion_cajeros_sucursales.\
+ModuleNotFoundError: No module named 'proyectos.vneg_cuadre_cajeros_sucursales.negocio.conciliacion_cajeros_sucursales.conciliacion_arqueos.controlador_conciliacion_arqueos'

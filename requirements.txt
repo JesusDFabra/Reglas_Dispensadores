@@ -1,0 +1,26 @@
+# Dependencias para el proyecto de arqueo de cajeros
+# Python 3.9.12
+
+# Procesamiento de datos
+pandas==1.3.5
+numpy==1.26.3
+
+# Lectura y escritura de Excel
+openpyxl==3.1.2
+xlrd==2.0.1
+XlsxWriter==3.1.9
+xlwt==1.3.0
+pyxlsb==1.0.10
+
+# Configuración
+PyYAML==6.0.1
+
+# Utilidades
+pyfiglet==1.0.2
+
+# Logging y utilidades del sistema
+pywin32==306; sys_platform == 'win32'
+
+# Días festivos de Colombia
+holidays-co>=1.0.0
+
