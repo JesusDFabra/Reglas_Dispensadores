@@ -1,0 +1,274 @@
+====================================================================================================
+INFORME DE COMPARACIÓN: PROCESAMIENTO MANUAL vs AUTOMÁTICO
+====================================================================================================
+
+Fecha de generación: 2025-12-18 10:23:54
+Archivo manual: gestion_17_12_2025_ksgarro_Karol.xlsx
+Archivo automático: gestion_17_12_2025_ksgarro_procesado.xlsx
+
+Total de registros en archivo manual: 140
+Total de registros en archivo automático: 141
+
+ESTADÍSTICAS:
+✓ Coincidencias perfectas: 96 (68.57%)
+✗ Diferencias encontradas: 44 (31.43%)
+⚠ Solo en manual: 0
+⚠ Solo en automático: 0
+✓ Solo coincide en 'ratificar_grabar_diferencia': 1 (0.71%)
+
+
+====================================================================================================
+DIFERENCIAS DETALLADAS (44 casos):
+====================================================================================================
+
+
+1. Cajero: 4636 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    JUAN ANDRES ME TIENE EL SOBRANTE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+2. Cajero: 6508 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+3. Cajero: 8955 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: PENDIENTE DE GESTION
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+4. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+5. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+6. Cajero: 4998 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+7. Cajero: 4636 | Tipo: ARQUEO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE GESTIÓN
+     - observaciones:
+       Manual:    JUAN ANDRES ME TIENE EL SOBRANTE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+8. Cajero: 6229 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+9. Cajero: 4185 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+10. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+11. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+12. Cajero: 8476 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+13. Cajero: 467 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+14. Cajero: 6553 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+15. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+16. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+17. Cajero: 1449 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+18. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+19. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+20. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+21. Cajero: 8186 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+22. Cajero: 8779 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+23. Cajero: 1951 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+24. Cajero: 783 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+25. Cajero: 5348 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+26. Cajero: 5544 | Tipo: ARQUEO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO CON ARQUEO DE LA SUCURSAL
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL NUEVAMENTE
+
+27. Cajero: 8955 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+28. Cajero: 8778 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+29. Cajero: 3691 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+30. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+31. Cajero: 8834 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+32. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+33. Cajero: 5695 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+34. Cajero: 5308 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+35. Cajero: 5958 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+36. Cajero: 2615 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+37. Cajero: 5389 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+38. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+39. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+40. Cajero: 5749 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+41. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+42. Cajero: 4718 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+43. Cajero: 6913 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+44. Cajero: 9008 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 17 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL

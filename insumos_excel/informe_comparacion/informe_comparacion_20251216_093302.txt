@@ -1,0 +1,3238 @@
+====================================================================================================
+INFORME DE COMPARACIÓN: PROCESAMIENTO MANUAL vs AUTOMÁTICO
+====================================================================================================
+
+Fecha de generación: 2025-12-16 09:33:02
+Archivo manual: gestion_15_12_2025_ksgarro_Karol.xlsx
+Archivo automático: gestion_15_12_2025_ksgarro_procesado.xlsx
+
+Total de registros en archivo manual: 456
+Total de registros en archivo automático: 456
+
+ESTADÍSTICAS:
+✓ Coincidencias perfectas: 91 (19.96%)
+✗ Diferencias encontradas: 365 (80.04%)
+⚠ Solo en manual: 0
+⚠ Solo en automático: 0
+✓ Solo coincide en 'ratificar_grabar_diferencia': 187 (41.01%)
+
+
+====================================================================================================
+DIFERENCIAS DETALLADAS (365 casos):
+====================================================================================================
+
+
+1. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+2. Cajero: 1826 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+3. Cajero: 6914 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+4. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+5. Cajero: 3403 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+6. Cajero: 9803 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+7. Cajero: 6410 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+8. Cajero: 9930 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+9. Cajero: 6841 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+
+10. Cajero: 8657 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+11. Cajero: 4070 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+12. Cajero: 6914 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+13. Cajero: 8851 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+14. Cajero: 5485 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+15. Cajero: 9213 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+16. Cajero: 5762 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+17. Cajero: 9882 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+18. Cajero: 4152 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+19. Cajero: 1014 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+20. Cajero: 2616 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+21. Cajero: 4332 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+22. Cajero: 8281 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+23. Cajero: 9880 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+24. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+25. Cajero: 9931 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+26. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: SE REVERSA DIFERENCIA CON CUADRE ANTERIOR
+
+27. Cajero: 4793 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+28. Cajero: 8469 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+29. Cajero: 8865 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+30. Cajero: 2679 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+31. Cajero: 4377 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+32. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+33. Cajero: 9212 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+34. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+35. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+36. Cajero: 5386 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+37. Cajero: 9879 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+38. Cajero: 6553 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+39. Cajero: 2616 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+40. Cajero: 3863 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+41. Cajero: 9881 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+
+42. Cajero: 217 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+43. Cajero: 4152 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+44. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: SE REVERSA DIFERENCIA CON CUADRE ANTERIOR
+
+45. Cajero: 6914 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+46. Cajero: 9805 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+47. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+48. Cajero: 9805 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+49. Cajero: 8993 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+50. Cajero: 6896 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+51. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+52. Cajero: 8331 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+53. Cajero: 4579 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+54. Cajero: 5749 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+55. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+56. Cajero: 4979 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+57. Cajero: 9880 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+58. Cajero: 8374 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+59. Cajero: 5577 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+60. Cajero: 9879 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+61. Cajero: 6777 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+62. Cajero: 5398 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+63. Cajero: 6052 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+64. Cajero: 4009 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+65. Cajero: 5928 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: PENDIENTE DE GESTION
+     - nuevo_estado:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+66. Cajero: 8532 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+67. Cajero: 2423 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+68. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+69. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+70. Cajero: 8617 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+71. Cajero: 4981 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+72. Cajero: 4740 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+73. Cajero: 2712 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+74. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+75. Cajero: 8486 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+76. Cajero: 4997 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+77. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+78. Cajero: 1157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+79. Cajero: 6362 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+80. Cajero: 4221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+81. Cajero: 4410 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+82. Cajero: 5349 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+83. Cajero: 4147 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+84. Cajero: 8917 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+85. Cajero: 4471 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+86. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+87. Cajero: 9805 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+88. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+89. Cajero: 4332 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+90. Cajero: 6915 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+91. Cajero: 9880 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+92. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CORRESPONDE A UNA PROVISIÓN DOBLE AL CAJERO 6157 DEL DÍA 11 DE DICIEMBRE SUCURSAL REALIZA HOY EL AJUSTE CONTABLE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+93. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+94. Cajero: 8440 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+95. Cajero: 4853 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: SITUACIÓN AMBIGUA.
+
+96. Cajero: 8858 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+97. Cajero: 7262 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+98. Cajero: 8865 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+99. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+100. Cajero: 5537 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+101. Cajero: 5691 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+102. Cajero: 1448 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+103. Cajero: 7190 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+104. Cajero: 781 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+105. Cajero: 8225 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+106. Cajero: 9212 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+107. Cajero: 3405 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+108. Cajero: 8186 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+109. Cajero: 9941 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+110. Cajero: 8858 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+111. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+112. Cajero: 5750 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+113. Cajero: 9931 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+114. Cajero: 420 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+115. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+116. Cajero: 2735 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+117. Cajero: 6874 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+118. Cajero: 4996 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+119. Cajero: 8469 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+120. Cajero: 2680 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+121. Cajero: 6966 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+122. Cajero: 4843 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+123. Cajero: 4521 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+124. Cajero: 5292 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+125. Cajero: 8625 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+126. Cajero: 4843 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+127. Cajero: 9006 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+128. Cajero: 5750 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+129. Cajero: 5292 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+130. Cajero: 5928 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+131. Cajero: 8627 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+132. Cajero: 8625 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+133. Cajero: 5386 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+134. Cajero: 5928 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: SE REVERSA DIFERENCIA CON CUADRE ANTERIOR
+
+135. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+136. Cajero: 1526 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+137. Cajero: 4998 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+138. Cajero: 9212 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+139. Cajero: 4738 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+140. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+141. Cajero: 1155 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+142. Cajero: 8661 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+143. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+144. Cajero: 5873 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+145. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CORRESPONDE A UNA PROVISIÓN DOBLE AL CAJERO 6157 DEL DÍA 11 DE DICIEMBRE SUCURSAL REALIZA HOY EL AJUSTE CONTABLE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+146. Cajero: 5958 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+147. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: SE REVERSA DIFERENCIA CON CUADRE ANTERIOR
+
+148. Cajero: 2686 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+149. Cajero: 3412 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+150. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+151. Cajero: 4996 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+152. Cajero: 2221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+153. Cajero: 8469 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+154. Cajero: 8917 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+155. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+156. Cajero: 5349 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+157. Cajero: 990 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+158. Cajero: 4151 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+159. Cajero: 8017 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+160. Cajero: 6841 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+161. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+162. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+163. Cajero: 5398 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+164. Cajero: 5537 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+165. Cajero: 310 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+166. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+167. Cajero: 8342 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+168. Cajero: 9930 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+169. Cajero: 6055 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+170. Cajero: 5752 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+171. Cajero: 2711 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+172. Cajero: 5386 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+173. Cajero: 4471 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+174. Cajero: 1826 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+175. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+176. Cajero: 5574 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+177. Cajero: 8917 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+178. Cajero: 420 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+179. Cajero: 6447 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+180. Cajero: 6508 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+181. Cajero: 5721 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+182. Cajero: 7810 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+183. Cajero: 8225 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+184. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+185. Cajero: 2223 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+186. Cajero: 9879 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+187. Cajero: 1449 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+188. Cajero: 9881 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+
+189. Cajero: 4584 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+190. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+191. Cajero: 4151 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+192. Cajero: 8657 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+193. Cajero: 1155 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+194. Cajero: 8624 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+195. Cajero: 9882 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: PENDIENTE DE GESTION
+     - nuevo_estado:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+196. Cajero: 8382 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+197. Cajero: 2876 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+198. Cajero: 3404 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+199. Cajero: 6508 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+200. Cajero: 5032 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+201. Cajero: 9727 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+202. Cajero: 9879 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+203. Cajero: 4130 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+204. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+205. Cajero: 9930 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+206. Cajero: 1014 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+207. Cajero: 4307 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+208. Cajero: 6015 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+209. Cajero: 6261 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+210. Cajero: 8973 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+211. Cajero: 4332 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+212. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+213. Cajero: 9855 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+214. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+215. Cajero: 9931 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+216. Cajero: 8337 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+217. Cajero: 420 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+218. Cajero: 6261 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+219. Cajero: 8858 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+220. Cajero: 3664 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+221. Cajero: 7259 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+222. Cajero: 8874 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+223. Cajero: 2616 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+224. Cajero: 1826 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+225. Cajero: 3122 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+226. Cajero: 5370 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+227. Cajero: 4991 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+228. Cajero: 9882 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+229. Cajero: 9803 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+230. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+231. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+232. Cajero: 4632 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+233. Cajero: 2235 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+234. Cajero: 9880 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+235. Cajero: 7442 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+236. Cajero: 3667 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+237. Cajero: 7928 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+238. Cajero: 7928 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+239. Cajero: 8636 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+240. Cajero: 3909 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS 50000
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+241. Cajero: 2875 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+242. Cajero: 2221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+243. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+244. Cajero: 2223 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+245. Cajero: 5649 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+246. Cajero: 5928 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: PENDIENTE DE GESTION
+     - nuevo_estado:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: PENDIENTE DE GESTION
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+247. Cajero: 9726 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+248. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+249. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+250. Cajero: 4130 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+251. Cajero: 217 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+252. Cajero: 6553 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+253. Cajero: 4738 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+254. Cajero: 7928 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+255. Cajero: 3664 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+256. Cajero: 9808 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+257. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+258. Cajero: 4738 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+259. Cajero: 4996 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+260. Cajero: 4843 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+261. Cajero: 4407 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+262. Cajero: 7721 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+263. Cajero: 3291 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+264. Cajero: 9882 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+265. Cajero: 8442 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+266. Cajero: 5398 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+267. Cajero: 9808 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+268. Cajero: 217 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+269. Cajero: 5292 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+270. Cajero: 2615 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+271. Cajero: 4979 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+272. Cajero: 4998 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS 20000
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+273. Cajero: 8532 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+274. Cajero: 6874 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+275. Cajero: 6055 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+276. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+277. Cajero: 8636 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+278. Cajero: 7348 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+279. Cajero: 8532 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+280. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+281. Cajero: 6841 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+
+282. Cajero: 9881 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+
+283. Cajero: 9803 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+284. Cajero: 3442 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+285. Cajero: 3962 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+286. Cajero: 8496 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+287. Cajero: 4793 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+288. Cajero: 1448 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+289. Cajero: 3442 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+290. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+291. Cajero: 9808 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+292. Cajero: 9212 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+293. Cajero: 3962 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+294. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+295. Cajero: 7632 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+296. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+297. Cajero: 4647 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+298. Cajero: 4151 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+299. Cajero: 6777 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+300. Cajero: 8993 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+301. Cajero: 8186 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+302. Cajero: 4998 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+303. Cajero: 2735 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+304. Cajero: 4738 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    SI
+       Automático: NO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: FALTANTE EN ARQUEO
+
+305. Cajero: 8382 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+306. Cajero: 5958 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+307. Cajero: 4221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+308. Cajero: 3909 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS 50000
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+309. Cajero: 8865 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+310. Cajero: 8420 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+311. Cajero: 5538 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+312. Cajero: 2443 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+313. Cajero: 9805 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+314. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+315. Cajero: 6055 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+316. Cajero: 4130 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+317. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+318. Cajero: 4996 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+319. Cajero: 944 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+320. Cajero: 6841 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+
+321. Cajero: 8637 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+322. Cajero: 6400 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+323. Cajero: 2735 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+324. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+325. Cajero: 1022 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+326. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+327. Cajero: 2223 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+328. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+329. Cajero: 1155 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+330. Cajero: 4565 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+331. Cajero: 2221 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+332. Cajero: 5398 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+333. Cajero: 9410 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+334. Cajero: 539 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+335. Cajero: 4979 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+336. Cajero: 5750 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+337. Cajero: 8583 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+338. Cajero: 4221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+339. Cajero: 8993 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+340. Cajero: 4731 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+341. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+342. Cajero: 4152 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+343. Cajero: 3442 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+344. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - observaciones:
+       Manual:    CORRESPONDE A UNA PROVISIÓN DOBLE AL CAJERO 6157 DEL DÍA 11 DE DICIEMBRE SUCURSAL REALIZA HOY EL AJUSTE CONTABLE
+       Automático: SE LE SOLICITA ARQUEO A LA SUCURSAL
+
+345. Cajero: 8187 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+346. Cajero: 3697 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+347. Cajero: 4279 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+348. Cajero: 4152 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+349. Cajero: 8617 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+350. Cajero: 5349 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+351. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+352. Cajero: 4565 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+353. Cajero: 9844 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+354. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+355. Cajero: 9881 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+356. Cajero: 4151 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+357. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+358. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+359. Cajero: 5649 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+360. Cajero: 9803 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+361. Cajero: 8374 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    PENDIENTE DE GESTION REVISAR CUADRE DEL CAJERO AL 15 DICIEMBRE
+       Automático: SITUACIÓN AMBIGUA.
+
+362. Cajero: 5749 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+363. Cajero: 8383 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+364. Cajero: 5649 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+365. Cajero: 4998 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    INCIDENTES O EVENTOS MASIVOS
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    INCIDENTES O EVENTOS MASIVOS 20000
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.

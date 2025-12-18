@@ -1,0 +1,710 @@
+====================================================================================================
+INFORME DE COMPARACIÓN: PROCESAMIENTO MANUAL vs AUTOMÁTICO
+====================================================================================================
+
+Fecha de generación: 2025-12-17 11:48:41
+Archivo manual: gestion_16_12_2025_ksgarro_Karol.xlsx
+Archivo automático: gestion_16_12_2025_ksgarro_procesado.xlsx
+
+Total de registros en archivo manual: 162
+Total de registros en archivo automático: 155
+
+ESTADÍSTICAS:
+✓ Coincidencias perfectas: 30 (18.52%)
+✗ Diferencias encontradas: 132 (81.48%)
+⚠ Solo en manual: 0
+⚠ Solo en automático: 0
+✓ Solo coincide en 'ratificar_grabar_diferencia': 10 (6.17%)
+
+
+====================================================================================================
+DIFERENCIAS DETALLADAS (132 casos):
+====================================================================================================
+
+
+1. Cajero: 9905 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+2. Cajero: 9844 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+3. Cajero: 8958 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+4. Cajero: 6055 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+5. Cajero: 7538 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+6. Cajero: 8315 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+7. Cajero: 2221 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+8. Cajero: 9721 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+9. Cajero: 5695 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+10. Cajero: 4740 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+11. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+12. Cajero: 5389 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+13. Cajero: 7928 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+14. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+15. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+16. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+17. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+18. Cajero: 7190 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+19. Cajero: 5835 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+20. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+21. Cajero: 6260 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+22. Cajero: 7917 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+23. Cajero: 9930 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+24. Cajero: 1826 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+25. Cajero: 4718 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+26. Cajero: 8866 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+27. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+28. Cajero: 217 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+29. Cajero: 4996 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+30. Cajero: 2311 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+31. Cajero: 5750 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+32. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+33. Cajero: 8917 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+34. Cajero: 5780 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+35. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+36. Cajero: 4257 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+37. Cajero: 4257 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+38. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+39. Cajero: 1021 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+40. Cajero: 4793 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+41. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+42. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+43. Cajero: 8012 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+44. Cajero: 420 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+45. Cajero: 4998 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+46. Cajero: 8865 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+47. Cajero: 9808 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+48. Cajero: 6914 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+49. Cajero: 8659 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+50. Cajero: 2735 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+     - observaciones:
+       Manual:    FALTANTE EN ARQUEO
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+51. Cajero: 9931 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+52. Cajero: 9730 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+53. Cajero: 3691 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+54. Cajero: 2616 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+55. Cajero: 5292 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+56. Cajero: 4991 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+57. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+58. Cajero: 6874 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+59. Cajero: 9410 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+60. Cajero: 8867 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+61. Cajero: 2210 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+62. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+63. Cajero: 8864 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+64. Cajero: 8957 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+65. Cajero: 4979 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+66. Cajero: 8721 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+67. Cajero: 4577 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+68. Cajero: 6511 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+69. Cajero: 1156 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+70. Cajero: 8469 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+71. Cajero: 4843 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+72. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+73. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+74. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+75. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+76. Cajero: 8187 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+77. Cajero: 4185 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+78. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+79. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+80. Cajero: 5693 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+81. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+82. Cajero: 4147 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+83. Cajero: 4470 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+84. Cajero: 4147 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+85. Cajero: 4739 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+86. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+87. Cajero: 2617 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    CAJERO CUADRADO REVISAR COMPORTAMIENTO AL 16 DICIEMBRE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+88. Cajero: 4462 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+89. Cajero: 2042 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+90. Cajero: 2794 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+91. Cajero: 5957 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+92. Cajero: 8188 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+93. Cajero: 2221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+
+94. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+95. Cajero: 5575 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+96. Cajero: 5958 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+97. Cajero: 3664 | Tipo: ARQUEO
+   Score de coincidencia: 75.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE GESTION
+
+98. Cajero: 4981 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+99. Cajero: 4152 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+100. Cajero: 4070 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+101. Cajero: 4130 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+102. Cajero: 8532 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+103. Cajero: 2735 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+104. Cajero: 5743 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+105. Cajero: 5544 | Tipo: ARQUEO
+   Score de coincidencia: 50.0%
+   Diferencias:
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: INCIDENTES O EVENTOS MASIVOS
+     - observaciones:
+       Manual:    SE LE SOLICITA ARQUEO A LA SUCURSAL
+       Automático: INCIDENTES O EVENTOS MASIVOS
+
+106. Cajero: 6508 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+107. Cajero: 3412 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+108. Cajero: 5649 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+109. Cajero: 9880 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    JUAN ANDRES ME TIENE EL SOBRANTE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+110. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+111. Cajero: 3442 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+112. Cajero: 5209 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+113. Cajero: 4151 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+114. Cajero: 1157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+115. Cajero: 9904 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    CONTABLE
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: FALTANTE EN ARQUEO
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE CONTABLE
+       Automático: ESTE CASO REQUIERE LA SUPERVISIÓN DE PERSONAL ENCARGADO.
+
+116. Cajero: 5031 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+117. Cajero: 4627 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+118. Cajero: 4782 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+119. Cajero: 4967 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+120. Cajero: 6553 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+121. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+122. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+123. Cajero: 4897 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+124. Cajero: 9880 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+125. Cajero: 3664 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+126. Cajero: 2042 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+127. Cajero: 6447 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+128. Cajero: 3862 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+129. Cajero: 1021 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+130. Cajero: 8186 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+131. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+132. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:

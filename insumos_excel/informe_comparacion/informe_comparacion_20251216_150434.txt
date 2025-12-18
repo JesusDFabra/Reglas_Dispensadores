@@ -1,0 +1,672 @@
+====================================================================================================
+INFORME DE COMPARACIÓN: PROCESAMIENTO MANUAL vs AUTOMÁTICO
+====================================================================================================
+
+Fecha de generación: 2025-12-16 15:04:34
+Archivo manual: gestion_16_12_2025_ksgarro_Karol.xlsx
+Archivo automático: gestion_16_12_2025_ksgarro_procesado.xlsx
+
+Total de registros en archivo manual: 153
+Total de registros en archivo automático: 153
+
+ESTADÍSTICAS:
+✓ Coincidencias perfectas: 2 (1.31%)
+✗ Diferencias encontradas: 151 (98.69%)
+⚠ Solo en manual: 0
+⚠ Solo en automático: 0
+✓ Solo coincide en 'ratificar_grabar_diferencia': 4 (2.61%)
+
+
+====================================================================================================
+DIFERENCIAS DETALLADAS (151 casos):
+====================================================================================================
+
+
+1. Cajero: 8917 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+2. Cajero: 6447 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+3. Cajero: 5695 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+4. Cajero: 4981 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+5. Cajero: 4577 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+6. Cajero: 4462 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+7. Cajero: 2221 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    Cruzar
+       Automático: FISICO
+     - nuevo_estado:
+       Manual:    CRUCE DE NOVEDADES
+       Automático: FALTANTE EN ARQUEO
+     - ratificar_grabar_diferencia:
+       Manual:    NO
+       Automático: SI
+
+8. Cajero: 1021 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+9. Cajero: 4718 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+10. Cajero: 2795 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+11. Cajero: 8639 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+12. Cajero: 8657 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+13. Cajero: 4738 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+14. Cajero: 1007 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+15. Cajero: 5649 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+16. Cajero: 5743 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+17. Cajero: 7955 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+18. Cajero: 4980 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+19. Cajero: 6511 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+20. Cajero: 5389 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+21. Cajero: 782 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+22. Cajero: 6260 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+23. Cajero: 8532 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+24. Cajero: 5751 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+25. Cajero: 8188 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+26. Cajero: 4981 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+27. Cajero: 4592 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+28. Cajero: 2042 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+29. Cajero: 7917 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+30. Cajero: 9808 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+31. Cajero: 5749 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+32. Cajero: 1826 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+33. Cajero: 4843 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+34. Cajero: 9410 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+35. Cajero: 4979 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+36. Cajero: 3664 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+37. Cajero: 5958 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+38. Cajero: 4151 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+39. Cajero: 3862 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+40. Cajero: 2617 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+41. Cajero: 4740 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+42. Cajero: 2735 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+43. Cajero: 4793 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+44. Cajero: 4267 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+45. Cajero: 8957 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+46. Cajero: 4627 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+47. Cajero: 5544 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+48. Cajero: 9880 | Tipo: DIARIO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    JUAN ANDRES ME TIENE EL SOBRANTE
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+49. Cajero: 4782 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+50. Cajero: 8721 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+51. Cajero: 8866 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+52. Cajero: 7669 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+53. Cajero: 8725 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+54. Cajero: 8187 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+55. Cajero: 1035 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+56. Cajero: 1036 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+57. Cajero: 3664 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+58. Cajero: 9728 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+59. Cajero: 5575 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+60. Cajero: 5337 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+61. Cajero: 3962 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+62. Cajero: 4636 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+63. Cajero: 4070 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+64. Cajero: 1156 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+65. Cajero: 5660 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+66. Cajero: 2210 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+67. Cajero: 5292 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+68. Cajero: 5693 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+69. Cajero: 8583 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+70. Cajero: 8469 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+71. Cajero: 6874 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+72. Cajero: 4185 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+73. Cajero: 9930 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+74. Cajero: 6914 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+75. Cajero: 7928 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+76. Cajero: 8186 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+77. Cajero: 9904 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+78. Cajero: 9880 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    PENDIENTE DE GESTION
+       Automático: Pendiente de gestion
+     - nuevo_estado:
+       Manual:    PENDIENTE DE GESTION
+       Automático: PENDIENTE DE REVISIÓN MANUAL
+     - observaciones:
+       Manual:    JUAN ANDRES ME TIENE EL SOBRANTE
+       Automático: ARQUEO Y DIARIO CON DIFERENCIAS OPUESTAS (UNO FALTANTE, OTRO SOBRANTE). REQUIERE REVISIÓN MANUAL.
+
+79. Cajero: 3691 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+80. Cajero: 4996 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+81. Cajero: 4739 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+82. Cajero: 783 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+83. Cajero: 4967 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+84. Cajero: 5209 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+85. Cajero: 8165 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+86. Cajero: 4991 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+87. Cajero: 5309 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+88. Cajero: 8659 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+89. Cajero: 2735 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+90. Cajero: 4257 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+91. Cajero: 5616 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+92. Cajero: 906 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+93. Cajero: 2221 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+94. Cajero: 5957 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+95. Cajero: 4897 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+96. Cajero: 3442 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+97. Cajero: 4958 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+98. Cajero: 4130 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+99. Cajero: 2311 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+100. Cajero: 4568 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+101. Cajero: 4152 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+102. Cajero: 5780 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+103. Cajero: 3799 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+104. Cajero: 8864 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+105. Cajero: 9931 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+106. Cajero: 2042 | Tipo: ARQUEO
+   Score de coincidencia: 25.0%
+   Diferencias:
+     - justificacion:
+       Manual:    FISICO
+       Automático: CONTABLE
+     - nuevo_estado:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+     - observaciones:
+       Manual:    CONTABILIZACION SOBRANTE FISICO
+       Automático: CONTABILIZACION SOBRANTE CONTABLE
+
+107. Cajero: 2794 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+108. Cajero: 6055 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+109. Cajero: 8865 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+110. Cajero: 9730 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+111. Cajero: 8911 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+112. Cajero: 8732 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+113. Cajero: 9844 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+114. Cajero: 5377 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+115. Cajero: 4998 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+116. Cajero: 5835 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+117. Cajero: 8315 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+118. Cajero: 3177 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+119. Cajero: 8724 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+120. Cajero: 8496 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+121. Cajero: 3412 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+122. Cajero: 5750 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+123. Cajero: 2234 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+124. Cajero: 6601 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+125. Cajero: 4794 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+126. Cajero: 2616 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+127. Cajero: 1155 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+128. Cajero: 6157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+129. Cajero: 4890 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+130. Cajero: 8012 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+131. Cajero: 7190 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+132. Cajero: 8958 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+133. Cajero: 217 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+134. Cajero: 5265 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+135. Cajero: 1021 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+136. Cajero: 1157 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+137. Cajero: 8863 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+138. Cajero: 4499 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+139. Cajero: 9721 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+140. Cajero: 8720 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+141. Cajero: 6553 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+142. Cajero: 3426 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+143. Cajero: 8867 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+144. Cajero: 4470 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+145. Cajero: 8440 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+146. Cajero: 420 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+147. Cajero: 5031 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+148. Cajero: 6508 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+149. Cajero: 7538 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+150. Cajero: 9905 | Tipo: DIARIO
+   Score de coincidencia: 0.0%
+   Diferencias:
+
+151. Cajero: 4991 | Tipo: ARQUEO
+   Score de coincidencia: 0.0%
+   Diferencias:

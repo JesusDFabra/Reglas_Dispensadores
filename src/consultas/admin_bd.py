@@ -28,15 +28,30 @@ class AdminBD:
         self.servidor = servidor
         self.usuario = usuario
         self.clave = clave
+        self.conn = None  # Conexión que se mantendrá abierta
+        self._conexion_abierta = False  # Flag para indicar si la conexión está abierta
     
     def conectar(self) -> pyodbc.Connection:
         """
         Establece la conexión a la base de datos.
-        Replica exactamente el método de CertificacionArqueo.
+        Si ya hay una conexión abierta, la reutiliza.
         
         Returns:
             Objeto de conexión pyodbc
         """
+        # Si ya hay una conexión abierta y válida, reutilizarla
+        if self._conexion_abierta and self.conn:
+            try:
+                # Verificar que la conexión sigue activa
+                cursor = self.conn.cursor()
+                cursor.close()
+                logger.debug(f"Reutilizando conexión existente a DSN: {self.servidor}")
+                return self.conn
+            except:
+                # La conexión se cerró, crear una nueva
+                self._conexion_abierta = False
+                self.conn = None
+        
         try:
             self.conn = pyodbc.connect(f'''
                 DSN={self.servidor}; 
@@ -44,50 +59,56 @@ class AdminBD:
                 TRANSLATE=1; 
                 UID={self.usuario}; 
                 PWD={self.clave}''')
+            self._conexion_abierta = True
             logger.info(f"Conexión establecida a DSN: {self.servidor}")
             return self.conn
         except Exception as e:
             logger.error(f"Error al conectar a {self.servidor}: {e}")
+            self._conexion_abierta = False
             raise
     
-    def consultar(self, consulta: str) -> pd.DataFrame:
+    def consultar(self, consulta: str, mantener_conexion: bool = True) -> pd.DataFrame:
         """
         Ejecuta una consulta SQL y retorna un DataFrame.
-        Replica exactamente el método de CertificacionArqueo:
-        - Siempre llama a conectar() antes de consultar
-        - Usa pandas.read_sql() directamente
         
         Args:
             consulta: Consulta SQL a ejecutar
+            mantener_conexion: Si es True, mantiene la conexión abierta para reutilizarla.
+                             Si es False, cierra la conexión después de la consulta (comportamiento original)
         
         Returns:
             DataFrame con los resultados de la consulta
         """
         try:
-            # Replicar exactamente: siempre conectar antes de consultar
+            # Conectar (reutiliza conexión si ya está abierta)
             self.conectar()
             logger.debug(f"Ejecutando consulta en {self.servidor}")
             df = pd.read_sql(consulta, self.conn)
-            logger.info(f"Consulta ejecutada exitosamente. Registros obtenidos: {len(df)}")
+            logger.debug(f"Consulta ejecutada exitosamente. Registros obtenidos: {len(df)}")
             return df
         except Exception as e:
             logger.error(f"Error al ejecutar consulta: {e}")
+            # Si hay error, cerrar la conexión para evitar problemas
+            self._conexion_abierta = False
             raise
         finally:
-            # Cerrar conexión después de la consulta
-            self.desconectar()
+            # Solo cerrar si mantener_conexion es False
+            if not mantener_conexion:
+                self.desconectar()
     
     def desconectar(self):
         """
         Cierra la conexión a la base de datos.
         """
-        if hasattr(self, 'conn') and self.conn:
+        if self.conn:
             try:
                 self.conn.close()
                 self.conn = None
-                logger.debug(f"Conexión cerrada a DSN: {self.servidor}")
+                self._conexion_abierta = False
+                logger.info(f"Conexión cerrada a DSN: {self.servidor}")
             except Exception as e:
                 logger.warning(f"Error al cerrar conexión: {e}")
+                self._conexion_abierta = False
 
 
 class AdminBDMedellin(AdminBD):
